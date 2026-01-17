@@ -10,7 +10,7 @@
 
 // -------------------- WiFi + Telegram --------------------
 const char* ssid     = "Gül iPhone";
-const char* password = "12345678";
+const char* password = "********";
 
 String chatId   = "6034247974";
 String BOTtoken = "8529101918:AAHTWq_GQnJx-PO6u8bezWaremSeBKG9rYk";
